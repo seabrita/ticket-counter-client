@@ -1,0 +1,26 @@
+﻿div{
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+button {
+	padding: 20px 25px;
+	background: transparent;
+	font-size: 18pt;
+	border: 1px solid black;
+	color: black;
+	outline: 0;
+	border-radius: 10px;
+}
+label {
+	display: block;
+	text-align: center;
+	font-size: 40pt;
+	font-weight: bold;
+	color: black;
+}
